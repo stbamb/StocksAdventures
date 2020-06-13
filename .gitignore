@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm folders
+.idea/
+
+# Created folders
+stocks_data/
